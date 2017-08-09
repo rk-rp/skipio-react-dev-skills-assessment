@@ -11,6 +11,8 @@ $ npm install
 $ npm start
 ```
 
+You will also need to put the actual api token into `./src/services/token.js`;
+
 ## Notes to the test evaluator
 
 I pushed the api token to github.  
